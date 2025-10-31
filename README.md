@@ -1,5 +1,3 @@
-# Car_Sales_Analysis_Dashboard
-
 # 🚗 Car Sales Analysis Dashboard
 
 ## 📊 Overview
